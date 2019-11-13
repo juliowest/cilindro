@@ -1,0 +1,4 @@
+rm -r constant/polyMesh/ constant/extendedFeatureEdgeMesh/
+rm constant/triSurface/*.eMesh 
+rm log.*
+ 
